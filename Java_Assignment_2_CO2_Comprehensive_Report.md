@@ -2,8 +2,8 @@
 ## Advanced Data Structures, Text Processing, Generics, and the Collection Framework
 **Course Outcome:** CO2 — Strings, regular expressions, Collection Framework, hashCode-equals, Generics, Comparable/Comparator, and PriorityQueue  
 **Total Marks:** 50  
-**Repository Name:** `CSA09-RA2311003010001-Assignment2`  
-**GitHub URL:** `https://github.com/UniversityOrg/CSA09-RA2311003010001-Assignment2`  
+**Repository Name:** `CSA0901-Assignment2`  
+**GitHub URL:** https://github.com/kingkaster24/JAVA-assignment-2  
 **Document Length:** ~12–15 Academic Page Equivalent (Comprehensive Empirical Report)
 
 ---
