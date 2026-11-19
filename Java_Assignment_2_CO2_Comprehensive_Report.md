@@ -9,11 +9,11 @@
 ---
 
 # Cover Page & System Metadata
-- **Student Name:** [Student Full Name]
-- **Register Number:** RA2311003010001
-- **Degree & Branch:** B.Tech Computer Science & Engineering
-- **Course Code & Title:** 21CS201J / Programming in Java
-- **Academic Year / Semester:** 2026–2027 / Odd Semester
+- **Student Name:** Gershon A
+- **Register Number:** 1924260231
+- **Degree & Branch:** B.Tech (AI/DS)
+- **Course Code & Title:** CSA0901 Programming in Java
+- **Academic Year:** 2026–2027 
 - **Execution Environment:**
   - **OS:** Windows 11 Education 64-bit (Build 22631)
   - **JVM:** OpenJDK 21.0.2 (LTS) 64-Bit Server VM (build 21.0.2+13-58)
